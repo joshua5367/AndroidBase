@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--touchable ui component size - not using?-->
+    <dimen name="activity_row_height">48dp</dimen>  <!--touchable ui components container height, for whole row-->
+    <dimen name="component_vertical_size">40dp</dimen>  <!--touchable ui component's height, for components like button, textbox-->
+    <dimen name="component_horizontal_spacing">4dp</dimen>  <!--horizontal spacing of touchable ui component-->
+    <dimen name="component_vertical_spacing">4dp</dimen>    <!--vertical spacing of touchable ui component-->
+    <dimen name="component_sub_vertical_size">32dp</dimen>  <!--touchable ui component's height, for sub components like icon/avatar besides button-->
+    <dimen name="component_sub_horizontal_spacing">8dp</dimen>  <!--horizontal spacing of touchable ui sub component-->
+    <dimen name="component_sub_vertical_spacing">8dp</dimen>    <!--vertical spacing of touchable ui sub component-->
+
+    <!--text size - not using?-->
+    <dimen name="text_micro">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_large">22sp</dimen>
+</resources>

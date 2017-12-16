@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Base</string>
+    <string name="sample_button1_label">Click Me!</string>
+    <string name="sample_button2_label">Click Me2!</string>
+    <string name="sample_text1">edit some text.</string>
+    <string name="sample_text2_before">Try click the button on the right to change this content.</string>
+    <string name="sample_text2_after">button 2 clicked.</string>
+
+    <!--Use to simulate input text for edit text-->
+    <string name="sample_test_text1">random test text</string>
+</resources>
